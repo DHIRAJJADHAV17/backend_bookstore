@@ -1,0 +1,4 @@
+.env
+dist/
+node_modules
+drivelink-8370c-firebase-adminsdk-ojfe2-e29bb0083a.json
